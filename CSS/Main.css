@@ -144,9 +144,9 @@
 .row5 .col1 .sub2 h2 {font-weight: 300; color: white;}
 
 .row5 .col1 .sub2 {width: 100%;}
-.row5 .col1 .sub2 .sub2 {width: 100%; position: absolute; color: white;  border: 5px solid #009DDC}
-.row5 .col1 .sub2 h2 {width: 100%; position: absolute; color: white; border: 5px solid #009DDC}
-.row5 .col1 .sub2 .text {width: 100%; position: absolute; ; color: white;}
+.row5 .col1 .sub2 .sub2 {width: 100%; color: white;  border: 5px solid #009DDC}
+.row5 .col1 .sub2 h2 {width: 100%; color: white; border: 5px solid #009DDC}
+.row5 .col1 .sub2 .text {width: 100%; color: white;}
 
 .row5 .col2 {display: grid; grid-template-rows: auto; grid-gap: 10px; margin: auto; align-items: center; justify-content: space-between; width: 80%; margin-right: 0;}
 
